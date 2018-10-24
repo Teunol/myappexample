@@ -1,2 +1,3 @@
 log.txt
 /dir2
+#tambien puedes usar "*.txt" para eliminar todo archivo de texto.
